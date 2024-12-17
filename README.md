@@ -12,3 +12,7 @@ Frontend: React.js, HTML, CSS<br>
 State Management: React Hooks<br>
 API Integration: Fetch API<br>
 Environment Variables: .env for API URLs<br>
+# Future Enhancements
+📈 Dashboard: Add charts to visualize expenses and income trends.<br>
+💾 User Authentication: Allow users to log in and manage their transactions.<br>
+📱 Mobile Responsive Design: Ensure the app works seamlessly on all devices.<br>
